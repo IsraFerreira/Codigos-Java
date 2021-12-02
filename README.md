@@ -59,7 +59,7 @@ cbrt | raiz cúbica | Math.cbrt(27) | 3
 Sigla | Simboliza | Digitação | Resposta
 ---|---|---|---
 && | .E. | true && false | false 
-|| | .OU. | false || false | true 
+(2 barras verticais) | .OU. | false (2 barras verticais) false | true 
 ^ | .XOU. | true ^ true | false 
 ! | .NAO. | ! false | true 
 
