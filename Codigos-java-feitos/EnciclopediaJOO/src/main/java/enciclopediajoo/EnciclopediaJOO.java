@@ -120,6 +120,24 @@ public class EnciclopediaJOO {
     */
     
     
+    /* AULA 07
+    Relacionamento entre classes
+    
+    classe: lutador
+    atributos (private - encapsulamento, não podem acessar meus atributos): 
+    nome / nacionalidade / idade / altura / peso / categoria (leve, medio, pesado) / vitorias / derrotas / empates
+    
+    metodos (publico): 
+    apresenta(), status(), ganharLuta(), perderLuta(), empatarLuta();
+    
+    
+    
+    
+    
+    
+    */
+    
+    
     
     /**/
     
