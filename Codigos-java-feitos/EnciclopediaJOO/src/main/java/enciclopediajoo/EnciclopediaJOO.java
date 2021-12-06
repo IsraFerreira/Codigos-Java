@@ -128,14 +128,17 @@ public class EnciclopediaJOO {
     nome / nacionalidade / idade / altura / peso / categoria (leve, medio, pesado) / vitorias / derrotas / empates
     
     metodos (publico): 
-    apresenta(), status(), ganharLuta(), perderLuta(), empatarLuta();
+    apresenta(), status(), ganharLuta(), perderLuta(), empatarLuta();    
+    */
     
-    
-    
-    
-    
+    /* AULA 08
     
     */
+    
+    /* AULA 09
+    Exercícios
+    */
+    
     
     
     

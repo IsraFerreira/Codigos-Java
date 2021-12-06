@@ -64,7 +64,7 @@ public class Lutador {
     }
     public void setPeso(float p){
     this.peso = p;
-    setCategoria();
+    this.setCategoria();
     }
     
     public String getCategoria(){
