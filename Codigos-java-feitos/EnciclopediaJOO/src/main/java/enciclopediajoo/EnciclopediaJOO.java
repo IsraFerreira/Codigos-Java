@@ -139,6 +139,52 @@ public class EnciclopediaJOO {
     Exercícios
     */
     
+    /* AULA 10
+    Herança
+    
+    Filho traz características da mãe
+    Permite basear uma nova classe na definição de uma outra classe previamente existente
+    Herança será aplicada tanto para características quanto para métodos
+    
+    
+    */
+    
+    /* AULA 11
+    
+    A - Raiz (inicio)
+    ABAB - Folha, não tem filhas
+
+    Ancestral - avô p cima
+    Descendente - neto p baixo
+    
+    Especialização (ir a fundo em descendentes)
+    Generalização (ir a fundo em ancestrais)
+    
+    2 Heranças
+    Herança de implementação
+    - apenas implementa classe abstrata
+    
+    Herança para diferença
+    - herda da classe, mas acrescenta seu próprio
+    
+    Posso sobrepor um método
+    
+    - Conceito Abstrato e final -
+    Motodos e classes podem ser abstratos ou finais
+    
+    Classe abstrata
+    não pode ser instanciada (não gera objetos), só pode servir como progenitora.
+    
+    Metodo abstrato
+    Declarado, mas não implementado na progenitora (só pode ser colocano numa interface ou numa classe abstrata).
+    
+    Classe final
+    Não pode ser herdada por outra classe. Obrigatoriamente folha (Não pode ter filhos).
+    
+    Método final
+    Não pode ser sobescrito pelas suas sub-classes. Obrigatoriamente herdado (Tem q ser como é na sua propria classe).
+        
+    */
     
     
     
