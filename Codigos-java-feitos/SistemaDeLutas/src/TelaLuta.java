@@ -395,7 +395,9 @@ public class TelaLuta extends javax.swing.JFrame {
                     case 0:
                         lblP.setText("EMPATOU!!!!");
                         UEC.setDesafiado(l[numLut1]);
+                        l[numLut1].empatarLuta();
                         UEC.setDesafiante(l[numLut2]);
+                        l[numLut2].empatarLuta();
                         break;
                     case 1:
                         lblP.setText("Vitória do " + UEC.getDesafiado().getNome());
