@@ -186,6 +186,29 @@ public class EnciclopediaJOO {
         
     */
     
+    /* AULA 12
+    Polimorfismo
+    
+    poli - muitas
+    morfo - formas
+    Permite que o mesmo nome represente vários comportamentos diferentes
+    
+    Assinatura do método (quantidade e os tipos dos parâmetros)
+    Public float calcMedia(float n1, float n2){}   
+    é igual a
+    Public Int calcMedia(float v1, float v2){}
+    
+    2 Tipos de polimorfismo
+    1 - Sobreposição (@Override)
+    Acontece quando substituímos um método de uma superclasse na sua subclasse, usando a mesma assinatura.
+    
+    2 - Sobrecarga
+    */
+    
+    /* AULA 13
+    2 - Sobrecarga 
+    Substituimos um método de uma superclasse na sua subclasse, mais de uma vez, usando assinaturas diferentes
+    */
     
     
     /**/
