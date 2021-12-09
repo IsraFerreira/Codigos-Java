@@ -17,7 +17,7 @@ public class Gafanhoto extends Pessoa{
         super(nome, idade, sexo);
         this.login = login;
         this.totAssistido = 0;
-    }
+    } 
     
     public String getLogin() {
         return login;
